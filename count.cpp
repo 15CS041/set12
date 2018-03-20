@@ -10,5 +10,7 @@ while (num>0)
 num=num/10;
 count++
 }
-cout<<"print the count value:";
+cout<<"print the value:"<<count;
+
+return 0;
 }
